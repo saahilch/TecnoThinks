@@ -12,7 +12,7 @@
     <groupId>BackendTask</groupId>
     <artifactId>spring_boot_backend_template</artifactId>
     <version>0.0.1</version>
-    <name>Bike_Point</name>
+    <name>RealEstatePropertyManagementCRM</name>
     <description>Project for Spring Boot based Backend</description>
     <properties>
         <java.version>11</java.version>
